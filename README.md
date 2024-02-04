@@ -16,7 +16,7 @@ The NotePedia Project is a practical and organized solution for capturing, manag
 This project is designed to enhance your note-taking experience, providing a reliable and accessible platform for managing your thoughts, ideas, and important information.
 
 ## Links to the Demo Project Respectively:
-https://nityaaarya30.github.io/stickyy-notes/
+https://nityaarya30.github.io/Sticky-Notes/
 
 ## Contribution 
 Do Star my Project and do contribute to it.
