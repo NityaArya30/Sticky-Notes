@@ -2,7 +2,7 @@
 
 ## Description
 
-The Sticky-Notes Project is a practical and organized solution for capturing, managing, and organizing your notes effortlessly. With a sleek and intuitive interface, this application allows users to create, edit, and categorize notes, promoting productivity and ensuring that important information is always at your fingertips.
+The Sticky-Notes Project is a practical and organized solution for capturing, managing, and organizing your notes effortlessly. With a sleek and intuitive interface, this application allows users to create, edit, and categorize notes, Promoting productivity and ensuring that important information is always at your fingertips.
 
 ### Key Features
 
