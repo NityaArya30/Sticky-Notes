@@ -13,7 +13,7 @@ The Sticky-Notes Project is a practical and organized solution for capturing, ma
 - Security: Protect sensitive information with optional password protection for selected notes.
 - Responsive Design: Enjoy a consistent user experience on desktops, tablets, and mobile devices.
 
-This project is designed to enhance your note-taking experience, providing a reliable and accessible platform for managing your thoughts, ideas, and important information.
+This project is designed to enhance your note-making experience, providing a reliable and accessible platform for managing your thoughts, ideas, and important information.
 
 ## Links to the Demo Project Respectively:
 https://nityaarya30.github.io/Sticky-Notes/
